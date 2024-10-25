@@ -1,0 +1,5 @@
+eat
+sleep
+shower
+play
+cut grass
